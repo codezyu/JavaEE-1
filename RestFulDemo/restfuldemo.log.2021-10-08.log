@@ -1,0 +1,22 @@
+2021-10-08 22:37:50.925 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 4876 (D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by 风格福德宫 in D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-08 22:37:50.928 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-08 22:37:54.535 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 4.052 seconds (JVM running for 4.793)
+2021-10-08 22:38:33.084 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 2544 (D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by 风格福德宫 in D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-08 22:38:33.087 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-08 22:38:36.738 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2021-10-08 23:32:56.355 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 3396 (D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by 风格福德宫 in D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-08 23:32:56.360 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-08 23:33:00.891 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 4.999 seconds (JVM running for 5.814)

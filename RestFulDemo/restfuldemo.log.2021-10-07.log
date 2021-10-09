@@ -1,0 +1,49 @@
+2021-10-07 18:01:05.623 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 13552 (D:\1�鼮\java\Javaee\ʵ��\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by ��񸣵¹� in D:\1�鼮\java\Javaee\ʵ��\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-07 18:01:05.634 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-07 18:01:09.649 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 4.504 seconds (JVM running for 5.169)
+2021-10-07 19:29:59.003 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 15068 (D:\1�鼮\java\Javaee\ʵ��\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by ��񸣵¹� in D:\1�鼮\java\Javaee\ʵ��\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-07 19:29:59.007 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-07 19:30:02.913 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 4.344 seconds (JVM running for 5.053)
+2021-10-07 19:37:27.825 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 13040 (D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by 风格福德宫 in D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-07 19:37:27.830 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-07 19:37:31.784 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2021-10-07 19:43:49.973 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 10588 (D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by 风格福德宫 in D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-07 19:43:49.977 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-07 19:43:53.566 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 4.227 seconds (JVM running for 6.572)
+2021-10-07 19:52:11.667 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 5088 (D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by 风格福德宫 in D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-07 19:52:11.671 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-07 19:52:16.014 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 4.932 seconds (JVM running for 7.523)
+2021-10-07 20:21:33.796 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 9224 (D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by 风格福德宫 in D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-07 20:21:33.800 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-07 20:21:37.593 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 4.509 seconds (JVM running for 7.285)
+2021-10-07 20:28:42.458 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 3896 (D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by 风格福德宫 in D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-07 20:28:42.461 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-07 20:28:46.174 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 4.322 seconds (JVM running for 6.8)
+2021-10-07 20:39:48.174 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 16812 (D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by 风格福德宫 in D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-07 20:39:48.177 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-07 20:39:52.127 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 4.537 seconds (JVM running for 7.263)
+2021-10-07 21:03:28.706 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 11144 (D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by 风格福德宫 in D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-07 21:03:28.710 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-07 21:03:32.633 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 4.556 seconds (JVM running for 6.992)
+2021-10-07 21:04:34.543 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 11280 (D:\1�鼮\java\Javaee\ʵ��\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by ��񸣵¹� in D:\1�鼮\java\Javaee\ʵ��\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-07 21:04:34.547 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-07 21:04:39.647 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 5.628 seconds (JVM running for 6.572)
+2021-10-07 21:36:35.574 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 4528 (D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by 风格福德宫 in D:\1书籍\java\Javaee\实验\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-07 21:36:35.580 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-07 21:36:39.013 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 4.016 seconds (JVM running for 6.376)
+2021-10-07 21:46:10.436 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 1.8.0_291 on LAPTOP-PM8994E9 with PID 6600 (D:\1�鼮\java\Javaee\ʵ��\JavaEEPlatform-master\2.SpringMvc\RestFulDemo\target\classes started by ��񸣵¹� in D:\1�鼮\java\Javaee\ʵ��\JavaEEPlatform-master\2.SpringMvc\RestFulDemo)
+2021-10-07 21:46:10.439 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-07 21:46:15.042 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 5.017 seconds (JVM running for 5.882)
