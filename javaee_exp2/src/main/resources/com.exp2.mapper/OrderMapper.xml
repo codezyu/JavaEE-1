@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.exp2.mapper.OrderMapper">
+    <resultMap type="Order" id="OrderDetailMap" autoMapping="true">
+        <id property="id" column="id"/>
+        <collection property="orderItems" ofType="OrderItem" autoMapping="true">
+            <id property="skuId" column="sku_id"/>
+            <result property="orderId" column="order_id"/>
+            <result property="name" column="name"/>
+            <result property="quantity" column="quantity"/>
+            <result property="price" column="price"/>
+            <result property="discount" column="discount"/>
+            <result property="couponActId" column="coupon_activity_id"/>
+            <result property="beShareId" column="be_share_id"/>
+        </collection>
+    </resultMap>
+    <select id="findOrderById" parameterType="Long" resultMap="OrderDetailMap">
+        SELECT orders.id as id, order_sn, pid, order_type, state, substate as sub_state, orders.gmt_create as gmt_create, orders.gmt_modified as gmt_modified, confirm_time, origin_price, discount_price, freight_price,
+        rebate_num, message, region_id, address, mobile, consignee, coupon_id, groupon_id, presale_id, shipment_sn,
+        goods_sku_id as sku_id, order_id, name, quantity, price, discount, order_item.coupon_activity_id as coupon_activity_id, be_share_id
+        FROM orders left join order_item
+        ON orders.id = order_item.order_id
+        WHERE orders.id = #{id}
+    </select>
+
+    <insert id="createOrder" parameterType="Order" keyProperty="id" useGeneratedKeys="true">
+        INSERT INTO orders(consignee, region_id, address, mobile, message, coupon_id, presale_id, groupon_id)
+        VALUES(#{consignee},#{regionId},#{address},#{mobile}, #{message},#{couponId},#{presaleId},#{grouponId})
+    </insert>
+
+<!--    <select id="findByOrderId" parameterType="Long" resultMap="OrderDetailMap">-->
+<!--        SELECT goods_sku_id, order_id, name, quantity, price, discount, coupon_activity_id, be_share_id-->
+<!--        FROM orders left join order_item-->
+<!--        WHERE order_id = #{orderId}-->
+<!--            AND or-->
+<!--    </select>-->
+</mapper>
